@@ -1,5 +1,8 @@
 # HOMEWORK # 2
 
+Author: Pengyun Li
+Date: March 22, 2022
+
 **Objective:** This homework exercise is intended to give you first-hand experience in building a repo for a DS project aligned with current best practices and to help you understand the logic behind best practices. If you need a refresher, check the slides for [week 3](https://github.com/marco-morales/QMSS-GR5069_Spring2022/tree/main/week_03) and [week 4](https://github.com/marco-morales/QMSS-GR5069_Spring2022/tree/main/week_04).
 
 ## Instructions:
